@@ -3,6 +3,7 @@ import Animation from "./Animation - 1704118941375.json"
 // import AnimationContact from "./Animation - 1703414573246.json"
 import Lottie from "lottie-react";
 import './Contact.css'
+import Heading from './Contact-Heading';
 
 const Contact = () => {
   const [user , setuser] = useState(
@@ -38,9 +39,10 @@ const Contact = () => {
     }
   }
   return (
+    <>
+    <Heading/>
     <div class="contact-form">
-      <h1 >Contact Us
-      </h1>
+    
         
         <div class="container">
             <div class="main">
@@ -61,6 +63,7 @@ const Contact = () => {
             </div>
         </div>
     </div> 
+    </>
   )
 }
 
