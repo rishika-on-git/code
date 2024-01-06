@@ -32,9 +32,9 @@ const Footer = () => {
             <h3>Contact Info</h3>
             <div>
               <p>
-               PRESIDENT : AMAN TRIPATHI
+               PRESIDENT : SHUBHANKAR KAUSHIK
               </p>
-              <p>VICE PRESIDENT : HARSH SHARMA</p>
+              <p>VICE PRESIDENT : ANIMA SHUKLA</p>
             </div>
           </div>
           <div className="footer-social">
@@ -53,7 +53,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>Copyright &copy; 2023 JIIT OPTICA CHAPTER | All Rights Reserved</p>
+          <p>Copyright &copy; 2024 CICE JIIT | All Rights Reserved</p>
         </div>
       </footer>
     </div>

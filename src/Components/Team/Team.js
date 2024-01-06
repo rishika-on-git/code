@@ -8,8 +8,8 @@ const Team = () => {
   const TeamMember = [
     {
       img: "/images/mehul.jpg",
-      name: "Mehul Bansal",
-      role: "Frontend Developer",
+      name: "Shubhankar Kaushik",
+      role: "PRESIDENT",
       social: [
         "https://github.com/mehul1409",
         "https://www.instagram.com/mehulbansal1409",
@@ -18,8 +18,8 @@ const Team = () => {
     },
     {
       img: "/images/mehul.jpg",
-      name: "Mehul Bansal",
-      role: "Frontend Developer",
+      name: "Anima Shukla",
+      role: "VICE-PRESIDENT",
       social: [
         "https://github.com/mehul1409",
         "https://www.instagram.com/mehulbansal1409",
@@ -28,8 +28,8 @@ const Team = () => {
     },
     {
       img: "/images/mehul.jpg",
-      name: "Mehul Bansal",
-      role: "Frontend Developer",
+      name: "Shashank Aggarwal",
+      role: "TREASURER",
       social: [
         "https://github.com/mehul1409",
         "https://www.instagram.com/mehulbansal1409",
@@ -38,8 +38,8 @@ const Team = () => {
     },
     {
       img: "/images/mehul.jpg",
-      name: "Mehul Bansal",
-      role: "Frontend Developer",
+      name: "Kushagra Bansal",
+      role: "SECRETARY",
       social: [
         "https://github.com/mehul1409",
         "https://www.instagram.com/mehulbansal1409",
@@ -48,8 +48,8 @@ const Team = () => {
     },
     {
       img: "/images/mehul.jpg",
-      name: "Mehul Bansal",
-      role: "Frontend Developer",
+      name: "Amritanshu",
+      role: "TECH HEAD ECE",
       social: [
         "https://github.com/mehul1409",
         "https://www.instagram.com/mehulbansal1409",
@@ -58,8 +58,48 @@ const Team = () => {
     },
     {
       img: "/images/mehul.jpg",
-      name: "Mehul Bansal",
-      role: "Frontend Developer",
+      name: "Tanmay Vig",
+      role: "TECH HEAD CSE",
+      social: [
+        "https://github.com/mehul1409",
+        "https://www.instagram.com/mehulbansal1409",
+        "https://www.linkedin.com/in/mehul-bansal-27173b254",
+      ],
+    },
+    {
+      img: "/images/mehul.jpg",
+      name: "Rishabh Jain",
+      role: "MARKETING HEAD",
+      social: [
+        "https://github.com/mehul1409",
+        "https://www.instagram.com/mehulbansal1409",
+        "https://www.linkedin.com/in/mehul-bansal-27173b254",
+      ],
+    },
+    {
+      img: "/images/mehul.jpg",
+      name: "Shreya Chauhan",
+      role: "CONTENT & CREATIVE HEAD",
+      social: [
+        "https://github.com/mehul1409",
+        "https://www.instagram.com/mehulbansal1409",
+        "https://www.linkedin.com/in/mehul-bansal-27173b254",
+      ],
+    },
+    {
+      img: "/images/mehul.jpg",
+      name: "Kritika Balchandani",
+      role: "CONTENT & CREATIVE HEAD",
+      social: [
+        "https://github.com/mehul1409",
+        "https://www.instagram.com/mehulbansal1409",
+        "https://www.linkedin.com/in/mehul-bansal-27173b254",
+      ],
+    },
+    {
+      img: "/images/mehul.jpg",
+      name: "Somanshu Bhardwaj",
+      role: "DIGITAL HEAD",
       social: [
         "https://github.com/mehul1409",
         "https://www.instagram.com/mehulbansal1409",

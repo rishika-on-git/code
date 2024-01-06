@@ -17,7 +17,7 @@
 .Teamcontainer .card{
     position:relative;
     width:280px;
-    height:370px;
+    height:390px;
     background: rgba(255,255,255,0.03);
     margin:3%;
     box-shadow: 2px 2px 5px linen;
@@ -37,6 +37,7 @@
     flex-direction: column;
     opacity: 0.5;
     transition: 0.5s ease-in-out;
+    border-radius: 10%;
 }
 
 .Teamcontainer .card:hover .content{
@@ -67,13 +68,13 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     text-align: center;
-    margin-top:10px;
+    margin-top:5px;
 }
 
 .contentbox p{
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     color:white;
     font-weight: 300;
     text-transform: initial;
